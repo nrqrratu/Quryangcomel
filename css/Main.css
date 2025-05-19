@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#ff6ea6;}
+
+#Logo {float: left;}
+#Logo {padding-bottom: 20px;}
+#Kotak {padding-top: 20px;
+        padding-bottom: 20px;}
+#icon {float: right;}
+#navigation 
+{
+    clear:both;
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    word-spacing:25px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#Weldow h1
+{
+    color:  #FF69B4;
+    border-bottom: solid black 0.5px;
+    padding: 10px;
+}
+#kanan h3
+{color:#FF69B4}
+
+#Weldow img
+{
+   
+    border-top: solid black 0.5px;
+    border-bottom: solid black 0.5px;
+    border-right: solid black 0.5px;
+    border-left: solid black 0.5px;
+    padding:7px;
+    margin: 5px;
+}
+#navigation a {text-decoration:none;}
+#navigation a:link {color:#FF69B4;}
+#navigation a:hover {color:#F7E5EC;}
+#navigation a:visited {color:black;}
+
+
+#Weldow {float:left; width:650px; margin-right: 15px;padding-right: 5px;}
+#gallery {margin-left: 5; margin-right: 10;}
+#kanan {float:right; width:225px;}
+#Footer {clear:both;}
+
+#Kotak {background-color:white; margin:0px
+auto; width:950px;}
+#KotakKotak {background-color:white;
+margin: 0px auto; width:900px;}
+
+#Footer
+{border-top: solid black 0.5px;}
+
+#ModernRooms 
+{width:250px;
+border-top:solid rgb(255, 0, 140) 10px;background-color:#F7E5EC;
+float:left;
+margin-left:50px;
+margin-bottom: 20px;
+padding-bottom: 10px;
+font-family: arial;}
+#ModernRooms h3
+{padding-left: 10px;}
+#ModernRooms p
+{padding-left: 10px;}
+#ModernRooms a
+{padding-left: 10px;}
+    
+
+#TraditionalRooms 
+{width:250px;
+border-top:solid rgb(255, 0, 234) 10px;
+background-color:#F7E5EC;
+float:left;
+margin-left:20px;
+margin-bottom: 20px;
+padding-bottom: 10px;
+font-family: arial;}
+#TraditionalRooms h3
+{padding-left: 10px;}
+#TraditionalRooms p
+{padding-left: 10px;}
+#TraditionalRooms a
+{padding-left: 10px;}
+
+    
+#ContemporaryRooms
+ {width:250px;
+border-top:solid rgb(128, 0, 92) 10px;
+background-color:#F7E5EC;
+float:left;
+margin-left:20px;
+margin-bottom: 20px;
+padding-bottom: 10px;
+font-family: arial;}
+#ContemporaryRooms h3
+{padding-left: 10px;}
+#ContemporaryRooms p
+{padding-left: 10px;}
+#ContemporaryRooms a
+{padding-left: 10px;}
+
+#Weldow1 h1
+{color:  #FF69B4;
+border-bottom: solid black 0.5px;
+padding: 10px;}
+
+
+
+    
